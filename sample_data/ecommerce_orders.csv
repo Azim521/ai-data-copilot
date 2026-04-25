@@ -1,0 +1,601 @@
+order_id,date,city,region,category,customer_segment,channel,quantity,unit_price,discount_pct,gmv,revenue,return_flag,rating
+ORD01000,2023-01-01,Kolkata,East,Beauty,Budget,In-Store,3,106.12,15.0,318.37,270.62,0,5
+ORD01001,2023-01-02,Chennai,South,Beauty,Budget,App,15,15.2,5.0,227.99,216.59,0,4
+ORD01002,2023-01-03,Jaipur,North,Books,Standard,In-Store,2,167.35,10.0,334.7,301.23,1,5
+ORD01003,2023-01-04,Hyderabad,South,Electronics,Standard,In-Store,2,541.48,5.0,1082.95,1028.81,0,5
+ORD01004,2023-01-05,Kolkata,East,Apparel,Premium,Website,3,339.41,15.0,1018.22,865.49,0,4
+ORD01005,2023-01-07,Surat,West,Toys,Budget,Website,6,44.98,5.0,269.87,256.37,0,4
+ORD01006,2023-01-08,Bangalore,South,Books,Premium,Website,15,39.39,25.0,590.78,443.08,0,5
+ORD01007,2023-01-09,Kolkata,East,Grocery,Budget,App,10,27.54,20.0,275.41,220.33,0,5
+ORD01008,2023-01-10,Jaipur,North,Beauty,Standard,Website,9,81.82,10.0,736.39,662.75,0,5
+ORD01009,2023-01-11,Hyderabad,South,Apparel,Standard,App,1,654.68,0.0,654.68,654.68,0,4
+ORD01010,2023-01-13,Chennai,South,Electronics,Standard,App,16,99.82,0.0,1597.07,1597.07,0,4
+ORD01011,2023-01-14,Jaipur,North,Grocery,Premium,App,6,198.5,15.0,1190.98,1012.33,0,1
+ORD01012,2023-01-15,Jaipur,North,Apparel,Premium,App,9,155.15,0.0,1396.35,1396.35,0,5
+ORD01013,2023-01-16,Bangalore,South,Beauty,Premium,App,4,301.44,15.0,1205.75,1024.88,0,1
+ORD01014,2023-01-18,Pune,West,Electronics,Premium,App,2,1277.15,5.0,2554.31,2426.59,0,5
+ORD01015,2023-01-19,Hyderabad,South,Toys,Budget,In-Store,4,83.75,5.0,334.99,318.24,0,2
+ORD01016,2023-01-20,Mumbai,West,Toys,Standard,Website,1,513.29,20.0,513.29,410.63,0,3
+ORD01017,2023-01-21,Jaipur,North,Home & Kitchen,Premium,In-Store,19,88.51,10.0,1681.77,1513.6,0,4
+ORD01018,2023-01-22,Pune,West,Grocery,Budget,App,10,31.59,5.0,315.91,300.11,0,5
+ORD01019,2023-01-24,Mumbai,West,Apparel,Budget,App,15,23.05,5.0,345.72,328.43,0,3
+ORD01020,2023-01-25,Hyderabad,South,Sports,Budget,Website,19,26.86,0.0,510.3,510.3,1,4
+ORD01021,2023-01-26,Delhi,North,Home & Kitchen,Budget,App,16,39.04,15.0,624.68,530.98,0,4
+ORD01022,2023-01-27,Surat,West,Electronics,Premium,App,4,705.13,0.0,2820.51,2820.51,0,3
+ORD01023,2023-01-29,Pune,West,Books,Standard,Website,2,182.06,20.0,364.13,291.3,0,2
+ORD01024,2023-01-30,Ahmedabad,West,Sports,Budget,App,13,32.91,20.0,427.88,342.3,0,5
+ORD01025,2023-01-31,Delhi,North,Toys,Standard,Website,1,458.17,0.0,458.17,458.17,1,4
+ORD01026,2023-02-01,Surat,West,Home & Kitchen,Premium,Website,17,107.09,10.0,1820.58,1638.52,0,1
+ORD01027,2023-02-02,Bangalore,South,Beauty,Budget,App,13,32.44,5.0,421.7,,0,5
+ORD01028,2023-02-04,Kolkata,East,Grocery,Premium,App,4,256.33,0.0,1025.34,1025.34,0,5
+ORD01029,2023-02-05,Chennai,South,Toys,Premium,Website,7,177.95,25.0,1245.66,934.24,0,4
+ORD01030,2023-02-06,Ahmedabad,West,Books,Standard,Website,17,25.26,0.0,429.36,429.36,0,4
+ORD01031,2023-02-07,Bangalore,South,Electronics,Standard,App,9,164.82,0.0,1483.41,,0,5
+ORD01032,2023-02-08,Hyderabad,South,Electronics,Standard,In-Store,4,401.62,5.0,1606.48,1526.15,1,5
+ORD01033,2023-02-10,Bangalore,South,Apparel,Premium,App,19,65.42,5.0,12430.58,11809.1,0,5
+ORD01034,2023-02-11,Kolkata,East,Sports,Budget,Website,1,437.69,5.0,437.69,415.8,0,4
+ORD01035,2023-02-12,Hyderabad,South,Toys,Standard,In-Store,10,,15.0,574.06,487.95,1,4
+ORD01036,2023-02-13,Ahmedabad,West,Electronics,Premium,App,4,602.98,10.0,2411.93,2170.74,0,5
+ORD01037,2023-02-15,Kolkata,East,Beauty,Budget,App,9,30.62,10.0,275.59,248.03,1,3
+ORD01038,2023-02-16,Mumbai,West,Apparel,Budget,App,13,28.5,0.0,370.49,370.49,1,4
+ORD01039,2023-02-17,Chennai,South,Toys,Budget,App,14,21.29,0.0,298.11,298.11,0,5
+ORD01040,2023-02-18,Ahmedabad,West,Sports,Budget,App,10,53.74,0.0,537.43,537.43,0,4
+ORD01041,2023-02-19,Mumbai,West,Sports,Standard,Website,6,112.34,0.0,674.01,674.01,0,4
+ORD01042,2023-02-21,Surat,West,Grocery,Standard,App,16,29.45,5.0,471.15,447.59,1,4
+ORD01043,2023-02-22,Ahmedabad,West,Grocery,Premium,Website,6,125.91,0.0,755.44,755.44,0,2
+ORD01044,2023-02-23,Surat,West,Apparel,Standard,In-Store,17,44.2,0.0,751.41,751.41,0,4
+ORD01045,2023-02-24,Hyderabad,South,Electronics,Standard,In-Store,10,152.64,0.0,1526.42,1526.42,1,5
+ORD01046,2023-02-26,Mumbai,West,Books,Standard,Website,18,20.07,20.0,361.22,288.97,1,3
+ORD01047,2023-02-27,Chennai,South,Sports,Standard,App,18,25.94,20.0,466.97,373.57,0,3
+ORD01048,2023-02-28,Kolkata,East,Toys,Standard,Website,3,151.37,10.0,454.1,408.69,0,5
+ORD01049,2023-03-01,Jaipur,North,Toys,Premium,Website,15,58.21,20.0,873.13,698.5,1,3
+ORD01050,2023-03-02,Bangalore,South,Beauty,Premium,App,15,65.9,15.0,988.46,840.19,0,3
+ORD01051,2023-03-04,Delhi,North,Home & Kitchen,Standard,App,4,178.61,5.0,714.44,678.72,1,5
+ORD01052,2023-03-05,Chennai,South,Toys,Premium,In-Store,9,81.91,0.0,737.18,737.18,0,5
+ORD01053,2023-03-06,Mumbai,West,Sports,Budget,App,19,15.69,15.0,298.06,253.35,0,5
+ORD01054,2023-03-07,Jaipur,North,Apparel,Standard,App,17,21.01,10.0,357.2,321.48,0,5
+ORD01055,2023-03-09,Chennai,South,Grocery,Standard,App,11,27.2,10.0,299.15,269.23,0,2
+ORD01056,2023-03-10,Mumbai,West,Electronics,Standard,App,9,175.68,15.0,1581.13,1343.96,0,5
+ORD01057,2023-03-11,Pune,West,Toys,Budget,In-Store,10,20.11,5.0,201.14,191.08,0,4
+ORD01058,2023-03-12,Pune,West,Beauty,Standard,Website,18,15.17,10.0,273.07,245.76,0,5
+ORD01059,2023-03-13,Surat,West,Apparel,Standard,Website,13,42.26,20.0,549.43,439.54,0,4
+ORD01060,2023-03-15,Chennai,South,Home & Kitchen,Standard,App,8,80.94,0.0,647.55,647.55,0,4
+ORD01061,2023-03-16,Pune,West,Beauty,Standard,App,7,77.4,10.0,541.82,487.64,0,4
+ORD01062,2023-03-17,Mumbai,West,Apparel,Budget,Website,17,17.93,5.0,304.85,289.61,0,4
+ORD01063,2023-03-18,Surat,West,Electronics,Budget,App,15,45.02,10.0,675.28,607.76,0,5
+ORD01064,2023-03-19,Mumbai,West,Home & Kitchen,Standard,App,15,49.21,15.0,738.18,627.45,0,4
+ORD01065,2023-03-21,Surat,West,Grocery,Budget,Website,1,152.95,0.0,152.95,152.95,0,4
+ORD01066,2023-03-22,Chennai,South,Sports,Budget,App,14,16.81,10.0,235.34,211.8,0,4
+ORD01067,2023-03-23,Jaipur,North,Grocery,Standard,Website,5,46.29,0.0,231.46,231.46,0,4
+ORD01068,2023-03-24,Kolkata,East,Books,Budget,App,11,11.65,10.0,128.17,115.35,1,5
+ORD01069,2023-03-26,Ahmedabad,West,Beauty,Standard,App,16,33.9,5.0,542.41,515.28,0,
+ORD01070,2023-03-27,Jaipur,North,Beauty,Standard,App,2,232.39,15.0,4647.77,3555.54,0,5
+ORD01071,2023-03-28,Hyderabad,South,Books,Standard,In-Store,8,31.65,0.0,253.17,253.17,1,5
+ORD01072,2023-03-29,Mumbai,West,Grocery,Budget,In-Store,11,10.5,10.0,115.49,103.94,0,5
+ORD01073,2023-03-30,Hyderabad,South,Electronics,Premium,In-Store,18,83.67,0.0,1506.0,1506.0,0,4
+ORD01074,2023-04-01,Jaipur,North,Electronics,Budget,Website,3,123.96,15.0,371.89,316.11,0,4
+ORD01075,2023-04-02,Surat,West,Home & Kitchen,Budget,App,1,414.79,20.0,414.79,331.83,0,5
+ORD01076,2023-04-03,Ahmedabad,West,Beauty,Premium,Website,11,95.92,25.0,1055.13,791.35,0,4
+ORD01077,2023-04-04,Ahmedabad,West,Home & Kitchen,Budget,Website,16,24.94,15.0,398.97,339.12,0,5
+ORD01078,2023-04-06,Delhi,North,Electronics,Premium,In-Store,18,85.2,15.0,1533.53,1303.5,0,5
+ORD01079,2023-04-07,Ahmedabad,West,Electronics,Standard,App,16,85.31,0.0,1364.91,1364.91,0,4
+ORD01080,2023-04-08,Kolkata,East,Electronics,Standard,Website,10,103.83,0.0,1038.3,1038.3,0,3
+ORD01081,2023-04-09,Ahmedabad,West,Apparel,Premium,App,18,41.65,5.0,749.68,712.2,0,4
+ORD01082,2023-04-10,Jaipur,North,Beauty,Budget,App,6,41.38,15.0,248.27,211.03,0,5
+ORD01083,2023-04-12,Delhi,North,Apparel,Budget,Website,19,16.23,20.0,308.42,246.74,0,4
+ORD01084,2023-04-13,Jaipur,North,Grocery,Standard,Website,4,95.31,0.0,381.24,381.24,0,4
+ORD01085,2023-04-14,Jaipur,North,Books,Premium,App,13,39.03,20.0,507.37,405.9,0,5
+ORD01086,2023-04-15,Bangalore,South,Apparel,Standard,App,14,32.57,10.0,456.05,410.44,0,4
+ORD01087,2023-04-17,Delhi,North,Grocery,Standard,Website,3,160.18,10.0,480.54,432.49,0,4
+ORD01088,2023-04-18,Jaipur,North,Sports,Budget,Website,10,39.18,0.0,391.77,391.77,0,5
+ORD01089,2023-04-19,Bangalore,South,Apparel,Standard,In-Store,6,93.61,0.0,561.64,561.64,0,5
+ORD01090,2023-04-20,Bangalore,South,Beauty,Standard,In-Store,1,687.31,5.0,687.31,652.94,0,3
+ORD01091,2023-04-21,Delhi,North,Books,Standard,Website,14,19.38,10.0,271.31,244.18,0,4
+ORD01092,2023-04-23,Hyderabad,South,Toys,Standard,App,8,48.08,0.0,384.63,384.63,0,4
+ORD01093,2023-04-24,Surat,West,Electronics,Budget,Website,19,52.91,5.0,1005.28,955.01,0,4
+ORD01094,2023-04-25,Kolkata,East,Books,Premium,App,14,56.33,15.0,788.68,670.38,0,
+ORD01095,2023-04-26,Surat,West,Grocery,Budget,App,10,26.51,15.0,265.12,225.35,0,4
+ORD01096,2023-04-27,Ahmedabad,West,Apparel,Standard,In-Store,17,42.05,20.0,714.88,571.9,0,3
+ORD01097,2023-04-29,Kolkata,East,Grocery,Budget,App,9,27.6,0.0,248.39,248.39,0,4
+ORD01098,2023-04-30,Ahmedabad,West,Toys,Standard,In-Store,6,92.87,0.0,557.21,557.21,0,2
+ORD01099,2023-05-01,Jaipur,North,Grocery,Standard,Website,11,42.89,10.0,471.77,424.59,0,4
+ORD01100,2023-05-02,Mumbai,West,Apparel,Budget,Website,7,64.62,5.0,452.34,429.72,0,5
+ORD01101,2023-05-04,Delhi,North,Beauty,Premium,Website,17,78.89,0.0,1341.13,1341.13,0,5
+ORD01102,2023-05-05,Kolkata,East,Apparel,Budget,In-Store,1,406.38,0.0,406.38,406.38,0,4
+ORD01103,2023-05-06,Kolkata,East,Electronics,Standard,Website,5,315.23,5.0,1576.14,1497.33,0,2
+ORD01104,2023-05-07,Jaipur,North,Electronics,Premium,Website,9,260.83,0.0,2347.44,2347.44,0,3
+ORD01105,2023-05-08,Hyderabad,South,Electronics,Standard,App,18,89.38,0.0,1608.76,1608.76,0,4
+ORD01106,2023-05-10,Bangalore,South,Electronics,Standard,Website,2,837.18,0.0,1674.36,1674.36,0,3
+ORD01107,2023-05-11,Jaipur,North,Electronics,Premium,App,11,286.44,0.0,3150.88,3150.88,0,4
+ORD01108,2023-05-12,Pune,West,Beauty,Standard,Website,6,129.25,10.0,775.53,697.97,0,3
+ORD01109,2023-05-13,Bangalore,South,Electronics,Standard,Website,8,237.96,5.0,17132.81,14467.68,0,5
+ORD01110,2023-05-15,Delhi,North,Apparel,Standard,Website,4,170.56,10.0,682.26,614.03,0,4
+ORD01111,2023-05-16,Bangalore,South,Books,Premium,App,18,34.48,0.0,620.65,620.65,0,3
+ORD01112,2023-05-17,Hyderabad,South,Grocery,Budget,App,11,,0.0,353.77,353.77,0,5
+ORD01113,2023-05-18,Bangalore,South,Home & Kitchen,Budget,Website,5,89.37,10.0,446.87,402.19,0,4
+ORD01114,2023-05-19,Delhi,North,Electronics,Budget,App,15,70.94,5.0,1064.16,1010.96,0,2
+ORD01115,2023-05-21,Hyderabad,South,Electronics,Standard,App,18,83.24,5.0,1498.24,1423.33,0,4
+ORD01116,2023-05-22,Surat,West,Electronics,Premium,App,2,1839.98,0.0,3679.96,3679.96,0,4
+ORD01117,2023-05-23,Kolkata,East,Electronics,Budget,In-Store,11,96.75,20.0,1064.24,851.39,1,5
+ORD01118,2023-05-24,Kolkata,East,Apparel,Premium,Website,13,111.11,0.0,1444.49,1444.49,0,3
+ORD01119,2023-05-26,Ahmedabad,West,Electronics,Premium,App,4,878.22,5.0,3512.87,3337.22,0,4
+ORD01120,2023-05-27,Surat,West,Electronics,Standard,App,7,211.73,10.0,14820.79,13338.699999999999,0,4
+ORD01121,2023-05-28,Surat,West,Electronics,Standard,App,11,137.02,5.0,1507.21,1431.85,0,2
+ORD01122,2023-05-29,Bangalore,South,Grocery,Budget,Website,4,67.93,0.0,271.72,271.72,0,5
+ORD01123,2023-05-30,Kolkata,East,Electronics,Standard,Website,15,98.58,5.0,1478.67,1404.74,1,5
+ORD01124,2023-06-01,Delhi,North,Apparel,Standard,App,1,,15.0,790.43,671.86,0,4
+ORD01125,2023-06-02,Chennai,South,Grocery,Standard,App,3,182.92,0.0,548.75,548.75,0,4
+ORD01126,2023-06-03,Chennai,South,Home & Kitchen,Budget,App,14,42.93,0.0,601.0,601.0,0,
+ORD01127,2023-06-04,Hyderabad,South,Electronics,Standard,Website,6,,0.0,1210.77,1210.77,0,5
+ORD01128,2023-06-05,Kolkata,East,Sports,Standard,Website,18,43.9,15.0,790.23,671.7,0,2
+ORD01129,2023-06-07,Kolkata,East,Beauty,Premium,App,1,1037.44,0.0,1037.44,1037.44,0,1
+ORD01130,2023-06-08,Chennai,South,Electronics,Budget,App,6,146.72,25.0,880.32,660.24,1,4
+ORD01131,2023-06-09,Kolkata,East,Books,Standard,App,6,78.05,5.0,468.29,444.87,0,4
+ORD01132,2023-06-10,Bangalore,South,Books,Premium,In-Store,16,41.0,25.0,655.92,491.94,1,4
+ORD01133,2023-06-12,Pune,West,Electronics,Premium,App,5,581.43,20.0,2907.15,2325.72,0,2
+ORD01134,2023-06-13,Mumbai,West,Apparel,Standard,Website,17,50.89,5.0,865.1,821.85,0,4
+ORD01135,2023-06-14,Surat,West,Sports,Standard,Website,10,83.74,0.0,837.45,837.45,0,4
+ORD01136,2023-06-15,Ahmedabad,West,Home & Kitchen,Standard,App,18,39.52,0.0,711.34,711.34,0,3
+ORD01137,2023-06-16,Hyderabad,South,Electronics,Budget,App,7,92.54,0.0,647.79,647.79,0,5
+ORD01138,2023-06-18,Pune,West,Electronics,Premium,App,3,782.4,10.0,2347.21,2112.49,0,2
+ORD01139,2023-06-19,Chennai,South,Apparel,Standard,Website,13,43.28,0.0,562.61,562.61,0,4
+ORD01140,2023-06-20,Surat,West,Grocery,Budget,Website,15,12.25,0.0,183.71,183.71,0,5
+ORD01141,2023-06-21,Kolkata,East,Beauty,Standard,Website,19,29.8,5.0,4529.04,4840.38,0,3
+ORD01142,2023-06-23,Ahmedabad,West,Apparel,Standard,Website,3,203.06,20.0,609.18,487.34,0,4
+ORD01143,2023-06-24,Kolkata,East,Grocery,Standard,App,4,123.85,0.0,495.39,495.39,0,5
+ORD01144,2023-06-25,Delhi,North,Home & Kitchen,Standard,In-Store,5,123.34,0.0,616.69,616.69,0,3
+ORD01145,2023-06-26,Delhi,North,Electronics,Budget,Website,1,725.99,0.0,725.99,725.99,0,5
+ORD01146,2023-06-27,Ahmedabad,West,Apparel,Standard,App,4,120.29,20.0,481.15,384.92,0,4
+ORD01147,2023-06-29,Ahmedabad,West,Home & Kitchen,Budget,In-Store,12,36.2,10.0,434.43,390.99,0,4
+ORD01148,2023-06-30,Chennai,South,Books,Premium,Website,10,46.55,0.0,465.51,465.51,0,4
+ORD01149,2023-07-01,Ahmedabad,West,Grocery,Premium,Website,13,37.82,0.0,491.67,491.67,1,4
+ORD01150,2023-07-02,Bangalore,South,Grocery,Premium,Website,14,44.13,0.0,617.79,617.79,0,5
+ORD01151,2023-07-04,Kolkata,East,Electronics,Standard,In-Store,5,228.41,0.0,1142.06,1142.06,0,5
+ORD01152,2023-07-05,Pune,West,Grocery,Standard,Website,4,88.43,20.0,353.72,282.97,0,5
+ORD01153,2023-07-06,Jaipur,North,Grocery,Budget,App,14,17.22,15.0,241.06,204.9,0,5
+ORD01154,2023-07-07,Ahmedabad,West,Apparel,Standard,App,10,36.03,5.0,360.25,342.24,0,5
+ORD01155,2023-07-08,Hyderabad,South,Apparel,Budget,In-Store,17,14.69,15.0,249.74,212.28,0,4
+ORD01156,2023-07-10,Delhi,North,Apparel,Premium,App,10,100.31,0.0,1003.11,1003.11,0,4
+ORD01157,2023-07-11,Bangalore,South,Electronics,Budget,App,7,76.04,10.0,532.3,479.07,0,4
+ORD01158,2023-07-12,Surat,West,Apparel,Budget,App,16,19.46,15.0,311.42,264.71,1,1
+ORD01159,2023-07-13,Jaipur,North,Electronics,Budget,App,1,331.26,0.0,331.26,331.26,0,5
+ORD01160,2023-07-14,Pune,West,Apparel,Budget,Website,17,26.83,15.0,456.16,387.74,0,4
+ORD01161,2023-07-16,Jaipur,North,Electronics,Budget,In-Store,9,66.21,0.0,595.92,595.92,0,1
+ORD01162,2023-07-17,Ahmedabad,West,Books,Standard,App,6,51.77,0.0,310.59,310.59,0,2
+ORD01163,2023-07-18,Chennai,South,Beauty,Premium,App,19,41.6,0.0,790.36,790.36,0,4
+ORD01164,2023-07-19,Delhi,North,Home & Kitchen,Premium,App,13,89.94,5.0,1169.17,1110.71,0,4
+ORD01165,2023-07-21,Delhi,North,Sports,Budget,In-Store,3,144.42,10.0,433.25,389.93,0,4
+ORD01166,2023-07-22,Surat,West,Grocery,Standard,Website,7,61.18,20.0,428.25,342.6,0,4
+ORD01167,2023-07-23,Chennai,South,Electronics,Budget,App,9,72.04,10.0,648.36,583.53,0,4
+ORD01168,2023-07-24,Kolkata,East,Grocery,Standard,In-Store,5,71.19,15.0,355.93,302.54,0,4
+ORD01169,2023-07-25,Mumbai,West,Beauty,Premium,In-Store,10,107.65,15.0,1076.5,915.02,0,3
+ORD01170,2023-07-27,Bangalore,South,Home & Kitchen,Premium,In-Store,17,97.57,0.0,1658.77,1658.77,0,2
+ORD01171,2023-07-28,Delhi,North,Grocery,Standard,In-Store,12,33.04,5.0,396.49,376.67,0,4
+ORD01172,2023-07-29,Hyderabad,South,Electronics,Standard,App,16,100.92,0.0,1614.69,1614.69,0,4
+ORD01173,2023-07-30,Delhi,North,Apparel,Premium,Website,3,345.22,10.0,1035.65,932.08,0,1
+ORD01174,2023-08-01,Jaipur,North,Apparel,Standard,Website,9,77.97,20.0,701.7,561.36,0,4
+ORD01175,2023-08-02,Delhi,North,Beauty,Premium,In-Store,15,80.1,0.0,1201.44,1201.44,0,2
+ORD01176,2023-08-03,Delhi,North,Beauty,Standard,Website,5,109.18,10.0,545.88,491.29,0,4
+ORD01177,2023-08-04,Mumbai,West,Apparel,Standard,Website,13,44.29,10.0,575.82,518.23,0,4
+ORD01178,2023-08-05,Mumbai,West,Toys,Budget,Website,14,24.76,5.0,346.66,329.32,0,4
+ORD01179,2023-08-07,Pune,West,Beauty,Standard,App,15,38.03,0.0,570.47,570.47,0,5
+ORD01180,2023-08-08,Kolkata,East,Apparel,Standard,Website,16,37.53,0.0,600.54,600.54,0,4
+ORD01181,2023-08-09,Hyderabad,South,Electronics,Premium,In-Store,13,182.82,0.0,2376.66,2376.66,0,5
+ORD01182,2023-08-10,Delhi,North,Electronics,Premium,In-Store,17,145.81,0.0,2478.72,2478.72,0,4
+ORD01183,2023-08-12,Delhi,North,Apparel,Standard,App,8,100.94,0.0,807.5,807.5,0,4
+ORD01184,2023-08-13,Bangalore,South,Electronics,Standard,App,2,820.19,5.0,1640.37,1558.35,1,5
+ORD01185,2023-08-14,Mumbai,West,Electronics,Standard,App,5,341.28,0.0,1706.39,1706.39,1,4
+ORD01186,2023-08-15,Hyderabad,South,Apparel,Standard,Website,6,133.82,20.0,802.95,642.36,0,4
+ORD01187,2023-08-16,Surat,West,Electronics,Standard,In-Store,12,124.52,5.0,1494.28,1419.57,0,4
+ORD01188,2023-08-18,Pune,West,Books,Budget,App,18,14.21,10.0,255.76,230.19,0,2
+ORD01189,2023-08-19,Kolkata,East,Electronics,Budget,Website,1,1137.55,5.0,1137.55,1080.67,0,1
+ORD01190,2023-08-20,Chennai,South,Grocery,Premium,In-Store,17,60.92,5.0,1035.62,983.84,0,4
+ORD01191,2023-08-21,Kolkata,East,Grocery,Standard,Website,11,52.11,20.0,573.26,458.61,0,4
+ORD01192,2023-08-22,Jaipur,North,Toys,Premium,Website,10,101.56,0.0,1015.59,1015.59,0,4
+ORD01193,2023-08-24,Delhi,North,Electronics,Premium,Website,19,168.71,0.0,3205.56,3205.56,1,3
+ORD01194,2023-08-25,Pune,West,Apparel,Budget,Website,14,32.73,15.0,458.16,389.44,0,5
+ORD01195,2023-08-26,Jaipur,North,Toys,Premium,App,10,114.37,0.0,1143.69,1143.69,0,5
+ORD01196,2023-08-27,Hyderabad,South,Books,Standard,Website,15,23.28,0.0,349.2,349.2,0,5
+ORD01197,2023-08-29,Chennai,South,Sports,Standard,Website,19,40.18,0.0,763.45,763.45,1,4
+ORD01198,2023-08-30,Mumbai,West,Apparel,Standard,In-Store,4,211.97,0.0,847.89,847.89,0,5
+ORD01199,2023-08-31,Pune,West,Electronics,Standard,Website,2,851.59,5.0,1703.17,1618.01,0,5
+ORD01200,2023-09-01,Pune,West,Home & Kitchen,Premium,Website,9,206.15,0.0,1855.39,1855.39,1,4
+ORD01201,2023-09-02,Delhi,North,Books,Standard,App,10,43.13,20.0,431.28,345.02,0,4
+ORD01202,2023-09-04,Ahmedabad,West,Beauty,Standard,Website,11,73.31,15.0,806.44,685.47,0,5
+ORD01203,2023-09-05,Pune,West,Beauty,Premium,App,14,110.29,10.0,1544.0,1389.6,0,4
+ORD01204,2023-09-06,Bangalore,South,Apparel,Standard,App,7,118.92,10.0,832.46,749.21,0,4
+ORD01205,2023-09-07,Chennai,South,Home & Kitchen,Premium,Website,15,119.64,15.0,1794.66,1525.46,0,3
+ORD01206,2023-09-09,Chennai,South,Electronics,Premium,In-Store,19,199.98,0.0,3799.56,,0,2
+ORD01207,2023-09-10,Bangalore,South,Apparel,Standard,App,15,58.06,20.0,870.85,696.68,1,5
+ORD01208,2023-09-11,Surat,West,Grocery,Premium,App,8,127.43,15.0,1019.43,866.52,1,4
+ORD01209,2023-09-12,Bangalore,South,Grocery,Standard,In-Store,11,52.73,10.0,580.02,522.01,0,4
+ORD01210,2023-09-13,Bangalore,South,Apparel,Standard,App,9,93.47,5.0,841.19,799.13,0,3
+ORD01211,2023-09-15,Chennai,South,Electronics,Budget,Website,15,65.2,0.0,977.98,977.98,0,4
+ORD01212,2023-09-16,Kolkata,East,Beauty,Premium,Website,1,,5.0,1233.86,1172.16,0,4
+ORD01213,2023-09-17,Chennai,South,Apparel,Premium,Website,1,1372.89,15.0,1372.89,1166.96,0,3
+ORD01214,2023-09-18,Ahmedabad,West,Beauty,Premium,App,19,79.16,0.0,1504.07,1504.07,0,5
+ORD01215,2023-09-20,Delhi,North,Electronics,Standard,App,3,526.69,15.0,1580.06,1343.05,0,2
+ORD01216,2023-09-21,Jaipur,North,Grocery,Standard,Website,10,52.97,0.0,529.74,529.74,0,4
+ORD01217,2023-09-22,Kolkata,East,Grocery,Premium,Website,8,130.02,0.0,1040.18,1040.18,1,5
+ORD01218,2023-09-23,Mumbai,West,Electronics,Budget,App,15,63.53,0.0,953.02,953.02,0,3
+ORD01219,2023-09-24,Jaipur,North,Apparel,Premium,Website,10,151.04,0.0,1510.44,1510.44,0,5
+ORD01220,2023-09-26,Delhi,North,Electronics,Standard,App,1,1290.1,5.0,1290.1,1225.59,0,5
+ORD01221,2023-09-27,Ahmedabad,West,Electronics,Standard,Website,18,85.99,0.0,1547.86,1547.86,0,5
+ORD01222,2023-09-28,Ahmedabad,West,Toys,Budget,App,2,169.1,25.0,338.2,253.65,0,2
+ORD01223,2023-09-29,Mumbai,West,Apparel,Standard,In-Store,19,38.65,5.0,734.31,697.6,0,3
+ORD01224,2023-09-30,Kolkata,East,Sports,Budget,App,13,28.07,0.0,364.91,364.91,0,4
+ORD01225,2023-10-02,Surat,West,Apparel,Standard,App,1,823.5,10.0,823.5,741.15,0,4
+ORD01226,2023-10-03,Bangalore,South,Home & Kitchen,Budget,App,2,214.86,20.0,429.71,343.77,0,5
+ORD01227,2023-10-04,Kolkata,East,Home & Kitchen,Premium,App,16,93.98,10.0,1503.75,1353.38,0,5
+ORD01228,2023-10-05,Surat,West,Beauty,Budget,In-Store,15,24.67,0.0,370.03,370.03,0,5
+ORD01229,2023-10-07,Ahmedabad,West,Grocery,Standard,In-Store,13,38.8,20.0,504.44,403.55,1,5
+ORD01230,2023-10-08,Chennai,South,Grocery,Budget,App,16,21.47,15.0,343.53,292.0,0,5
+ORD01231,2023-10-09,Delhi,North,Apparel,Standard,App,17,30.22,0.0,513.79,513.79,1,4
+ORD01232,2023-10-10,Mumbai,West,Books,Standard,Website,7,40.33,0.0,282.28,282.28,0,3
+ORD01233,2023-10-11,Delhi,North,Sports,Standard,In-Store,17,40.44,5.0,687.49,653.12,1,5
+ORD01234,2023-10-13,Hyderabad,South,Toys,Standard,Website,7,53.61,0.0,375.3,375.3,0,3
+ORD01235,2023-10-14,Hyderabad,South,Electronics,Premium,App,13,193.9,15.0,2520.7,2142.6,0,2
+ORD01236,2023-10-15,Kolkata,East,Home & Kitchen,Premium,App,5,281.07,0.0,1405.33,1405.33,0,
+ORD01237,2023-10-16,Ahmedabad,West,Toys,Premium,Website,17,50.32,20.0,855.5,684.4,0,5
+ORD01238,2023-10-18,Ahmedabad,West,Electronics,Premium,App,3,743.89,5.0,2231.66,2120.08,0,2
+ORD01239,2023-10-19,Bangalore,South,Electronics,Budget,Website,7,124.46,0.0,871.23,871.23,0,5
+ORD01240,2023-10-20,Bangalore,South,Home & Kitchen,Premium,App,17,55.39,0.0,941.59,941.59,0,5
+ORD01241,2023-10-21,Bangalore,South,Beauty,Budget,Website,7,44.01,5.0,308.09,292.69,0,4
+ORD01242,2023-10-22,Chennai,South,Sports,Standard,App,1,518.2,15.0,518.2,440.47,0,2
+ORD01243,2023-10-24,Jaipur,North,Electronics,Premium,Website,17,139.17,15.0,2365.81,2010.94,0,3
+ORD01244,2023-10-25,Pune,West,Sports,Budget,Website,17,14.01,0.0,238.2,238.2,0,5
+ORD01245,2023-10-26,Jaipur,North,Electronics,Standard,Website,11,101.83,0.0,1120.08,1120.08,0,5
+ORD01246,2023-10-27,Delhi,North,Electronics,Standard,App,3,396.7,0.0,1190.1,1190.1,0,5
+ORD01247,2023-10-29,Jaipur,North,Electronics,Standard,Website,15,62.18,10.0,932.73,839.46,0,
+ORD01248,2023-10-30,Chennai,South,Sports,Standard,Website,11,47.18,0.0,518.96,518.96,0,2
+ORD01249,2023-10-31,Delhi,North,Home & Kitchen,Premium,Website,16,71.14,5.0,1138.16,1081.25,0,2
+ORD01250,2023-11-01,Jaipur,North,Grocery,Budget,Website,9,28.2,10.0,253.77,,1,5
+ORD01251,2023-11-02,Chennai,South,Apparel,Budget,Website,1,268.0,20.0,268.0,214.4,0,3
+ORD01252,2023-11-04,Pune,West,Books,Standard,In-Store,16,14.6,0.0,233.68,233.68,0,4
+ORD01253,2023-11-05,Jaipur,North,Apparel,Premium,App,9,132.52,0.0,1192.69,1192.69,0,4
+ORD01254,2023-11-06,Chennai,South,Sports,Standard,In-Store,19,30.44,10.0,578.43,520.58,0,1
+ORD01255,2023-11-07,Bangalore,South,Grocery,Premium,Website,12,49.19,10.0,590.25,531.22,0,3
+ORD01256,2023-11-08,Ahmedabad,West,Apparel,Premium,App,19,60.97,0.0,1158.49,1158.49,0,4
+ORD01257,2023-11-10,Bangalore,South,Grocery,Standard,App,9,39.6,20.0,356.43,285.15,0,3
+ORD01258,2023-11-11,Ahmedabad,West,Apparel,Standard,App,7,98.39,15.0,688.71,585.4,0,3
+ORD01259,2023-11-12,Mumbai,West,Home & Kitchen,Budget,Website,14,26.78,0.0,374.9,374.9,0,5
+ORD01260,2023-11-13,Mumbai,West,Grocery,Standard,Website,19,20.83,0.0,395.85,395.85,0,5
+ORD01261,2023-11-15,Mumbai,West,Apparel,Standard,Website,19,37.38,5.0,710.2,674.69,0,3
+ORD01262,2023-11-16,Pune,West,Books,Standard,Website,2,152.16,15.0,304.33,258.68,0,5
+ORD01263,2023-11-17,Bangalore,South,Apparel,Standard,App,9,79.37,0.0,714.32,714.32,0,4
+ORD01264,2023-11-18,Ahmedabad,West,Grocery,Standard,App,13,33.19,10.0,431.48,388.33,0,4
+ORD01265,2023-11-19,Chennai,South,Books,Budget,App,15,17.12,10.0,256.76,231.09,1,5
+ORD01266,2023-11-21,Delhi,North,Beauty,Premium,App,3,455.77,0.0,1367.3,1367.3,1,5
+ORD01267,2023-11-22,Chennai,South,Electronics,Budget,App,11,64.0,10.0,704.05,633.64,0,
+ORD01268,2023-11-23,Delhi,North,Toys,Standard,App,14,40.38,20.0,565.29,452.23,0,3
+ORD01269,2023-11-24,Hyderabad,South,Beauty,Standard,Website,8,73.13,0.0,585.01,585.01,0,2
+ORD01270,2023-11-26,Chennai,South,Apparel,Standard,Website,18,41.55,0.0,747.98,747.98,0,5
+ORD01271,2023-11-27,Jaipur,North,Electronics,Standard,In-Store,19,82.15,5.0,1560.83,1482.79,0,4
+ORD01272,2023-11-28,Jaipur,North,Sports,Budget,In-Store,16,26.58,20.0,425.29,340.23,0,4
+ORD01273,2023-11-29,Kolkata,East,Beauty,Budget,Website,2,239.27,25.0,478.54,358.91,0,5
+ORD01274,2023-11-30,Bangalore,South,Grocery,Standard,App,8,66.72,5.0,533.77,507.08,0,5
+ORD01275,2023-12-02,Delhi,North,Books,Standard,Website,6,63.85,15.0,383.12,325.65,1,5
+ORD01276,2023-12-03,Delhi,North,Sports,Standard,Website,12,68.94,5.0,827.27,785.91,0,4
+ORD01277,2023-12-04,Bangalore,South,Electronics,Budget,App,15,69.24,5.0,1038.6,986.67,0,5
+ORD01278,2023-12-05,Pune,West,Apparel,Premium,App,8,195.3,0.0,1562.38,1562.38,0,1
+ORD01279,2023-12-07,Kolkata,East,Apparel,Standard,In-Store,4,206.93,0.0,827.72,827.72,0,1
+ORD01280,2023-12-08,Pune,West,Home & Kitchen,Standard,App,15,44.97,0.0,674.54,674.54,0,4
+ORD01281,2023-12-09,Pune,West,Electronics,Standard,Website,17,105.58,5.0,1794.88,1705.13,0,2
+ORD01282,2023-12-10,Pune,West,Beauty,Premium,Website,13,92.75,0.0,1205.73,1205.73,0,4
+ORD01283,2023-12-11,Bangalore,South,Home & Kitchen,Standard,App,18,55.58,20.0,1000.5,800.4,0,4
+ORD01284,2023-12-13,Pune,West,Books,Budget,App,2,112.61,0.0,225.21,225.21,0,4
+ORD01285,2023-12-14,Jaipur,North,Apparel,Premium,App,13,104.77,0.0,1362.06,1362.06,0,3
+ORD01286,2023-12-15,Mumbai,West,Sports,Premium,App,13,,5.0,1984.39,1885.17,0,4
+ORD01287,2023-12-16,Hyderabad,South,Electronics,Budget,App,15,72.83,10.0,1092.41,983.16,1,4
+ORD01288,2023-12-17,Delhi,North,Sports,Premium,In-Store,10,169.91,0.0,1699.13,1699.13,0,4
+ORD01289,2023-12-19,Delhi,North,Electronics,Budget,App,3,399.87,0.0,1199.62,1199.62,0,5
+ORD01290,2023-12-20,Hyderabad,South,Apparel,Standard,Website,19,46.36,25.0,880.89,660.67,0,5
+ORD01291,2023-12-21,Bangalore,South,Sports,Premium,App,3,728.43,0.0,2185.29,2185.29,0,4
+ORD01292,2023-12-22,Chennai,South,Electronics,Budget,In-Store,14,79.81,0.0,1117.3,1117.3,0,5
+ORD01293,2023-12-24,Bangalore,South,Apparel,Standard,App,8,119.45,15.0,955.58,812.25,0,2
+ORD01294,2023-12-25,Delhi,North,Home & Kitchen,Standard,App,4,295.56,0.0,1182.24,1182.24,0,3
+ORD01295,2023-12-26,Delhi,North,Home & Kitchen,Standard,In-Store,11,113.77,5.0,1251.46,1188.89,0,5
+ORD01296,2023-12-27,Hyderabad,South,Beauty,Standard,In-Store,11,70.46,0.0,775.04,,0,4
+ORD01297,2023-12-28,Pune,West,Home & Kitchen,Premium,App,11,166.78,0.0,1834.61,1834.61,0,5
+ORD01298,2023-12-30,Bangalore,South,Grocery,Standard,In-Store,2,344.1,0.0,688.2,688.2,0,4
+ORD01299,2023-12-31,Ahmedabad,West,Apparel,Budget,Website,17,34.7,0.0,589.84,589.84,0,5
+ORD01300,2024-01-01,Hyderabad,South,Apparel,Standard,Website,9,111.46,0.0,1003.1,1003.1,0,4
+ORD01301,2024-01-02,Jaipur,North,Electronics,Standard,App,2,794.07,0.0,1588.15,1588.15,0,4
+ORD01302,2024-01-04,Delhi,North,Books,Standard,App,15,34.51,15.0,517.7,440.05,0,4
+ORD01303,2024-01-05,Hyderabad,South,Beauty,Budget,Website,16,27.71,0.0,443.36,443.36,0,5
+ORD01304,2024-01-06,Bangalore,South,Grocery,Premium,Website,4,266.83,5.0,1067.3,1013.94,0,4
+ORD01305,2024-01-07,Delhi,North,Grocery,Budget,App,8,42.39,20.0,339.15,271.32,0,5
+ORD01306,2024-01-08,Chennai,South,Toys,Standard,Website,9,64.03,10.0,576.26,518.63,0,3
+ORD01307,2024-01-10,Hyderabad,South,Electronics,Premium,Website,5,530.36,0.0,2651.78,2651.78,0,2
+ORD01308,2024-01-11,Kolkata,East,Beauty,Premium,App,16,68.57,20.0,1097.14,877.71,1,4
+ORD01309,2024-01-12,Delhi,North,Grocery,Premium,Website,13,76.89,0.0,999.55,999.55,0,4
+ORD01310,2024-01-13,Bangalore,South,Beauty,Standard,App,7,86.94,0.0,608.61,608.61,0,5
+ORD01311,2024-01-15,Mumbai,West,Electronics,Standard,Website,17,84.56,15.0,1437.6,1221.96,0,4
+ORD01312,2024-01-16,Ahmedabad,West,Books,Budget,Website,3,76.63,5.0,229.88,,0,4
+ORD01313,2024-01-17,Surat,West,Toys,Standard,In-Store,5,78.29,5.0,391.47,371.9,0,4
+ORD01314,2024-01-18,Pune,West,Beauty,Premium,App,19,72.78,0.0,1382.8,1382.8,1,4
+ORD01315,2024-01-19,Surat,West,Home & Kitchen,Standard,App,12,50.54,5.0,606.49,576.17,0,5
+ORD01316,2024-01-21,Bangalore,South,Books,Standard,App,7,52.26,0.0,365.85,365.85,0,3
+ORD01317,2024-01-22,Jaipur,North,Home & Kitchen,Premium,App,9,170.0,20.0,1529.96,1223.97,0,4
+ORD01318,2024-01-23,Jaipur,North,Electronics,Premium,App,6,479.29,0.0,2875.76,2875.76,0,5
+ORD01319,2024-01-24,Mumbai,West,Beauty,Premium,In-Store,17,67.89,20.0,1154.18,923.35,0,5
+ORD01320,2024-01-25,Pune,West,Beauty,Standard,App,16,50.75,5.0,811.94,771.35,0,4
+ORD01321,2024-01-27,Kolkata,East,Grocery,Standard,App,3,155.92,15.0,467.76,397.59,0,4
+ORD01322,2024-01-28,Mumbai,West,Home & Kitchen,Standard,Website,4,224.93,10.0,899.74,809.76,0,4
+ORD01323,2024-01-29,Surat,West,Toys,Budget,App,10,26.56,10.0,265.59,239.03,0,4
+ORD01324,2024-01-30,Mumbai,West,Books,Budget,Website,5,39.68,0.0,198.39,198.39,0,5
+ORD01325,2024-02-01,Surat,West,Grocery,Standard,App,10,52.59,0.0,525.91,525.91,0,5
+ORD01326,2024-02-02,Delhi,North,Electronics,Budget,Website,12,63.4,0.0,760.78,760.78,0,4
+ORD01327,2024-02-03,Jaipur,North,Toys,Premium,App,10,86.62,15.0,866.23,736.29,0,3
+ORD01328,2024-02-04,Delhi,North,Sports,Premium,App,13,106.46,15.0,1384.03,1176.43,0,3
+ORD01329,2024-02-05,Ahmedabad,West,Electronics,Standard,In-Store,11,101.79,5.0,1119.67,1063.68,0,3
+ORD01330,2024-02-07,Pune,West,Books,Premium,App,16,22.22,0.0,355.51,355.51,0,2
+ORD01331,2024-02-08,Kolkata,East,Books,Standard,Website,8,38.85,0.0,310.82,310.82,0,4
+ORD01332,2024-02-09,Surat,West,Grocery,Budget,App,8,34.37,10.0,274.95,247.46,0,2
+ORD01333,2024-02-10,Kolkata,East,Beauty,Premium,App,8,94.65,5.0,757.2,719.34,0,3
+ORD01334,2024-02-12,Surat,West,Apparel,Premium,In-Store,13,90.0,15.0,1170.01,994.51,0,
+ORD01335,2024-02-13,Bangalore,South,Electronics,Standard,App,2,675.55,25.0,1351.09,1013.32,0,3
+ORD01336,2024-02-14,Mumbai,West,Apparel,Budget,Website,12,18.2,0.0,218.41,218.41,0,2
+ORD01337,2024-02-15,Ahmedabad,West,Sports,Standard,In-Store,10,53.3,5.0,532.98,506.34,0,4
+ORD01338,2024-02-16,Jaipur,North,Electronics,Standard,Website,12,94.51,5.0,1134.06,1077.36,0,3
+ORD01339,2024-02-18,Surat,West,Apparel,Premium,In-Store,11,92.69,0.0,1019.63,1019.63,0,4
+ORD01340,2024-02-19,Kolkata,East,Apparel,Premium,App,15,61.75,0.0,7410.15,,0,2
+ORD01341,2024-02-20,Ahmedabad,West,Grocery,Budget,App,16,,0.0,205.01,205.01,0,5
+ORD01342,2024-02-21,Chennai,South,Books,Budget,App,17,13.3,20.0,226.03,,0,5
+ORD01343,2024-02-23,Chennai,South,Apparel,Premium,Website,2,528.68,5.0,1057.36,1004.49,0,5
+ORD01344,2024-02-24,Delhi,North,Apparel,Budget,In-Store,18,17.89,5.0,321.97,305.87,0,4
+ORD01345,2024-02-25,Jaipur,North,Home & Kitchen,Standard,App,12,58.89,20.0,706.72,565.38,0,5
+ORD01346,2024-02-26,Bangalore,South,Grocery,Budget,Website,19,14.07,15.0,267.37,227.26,0,5
+ORD01347,2024-02-27,Kolkata,East,Apparel,Standard,App,18,34.98,0.0,629.67,629.67,0,1
+ORD01348,2024-02-29,Mumbai,West,Grocery,Standard,Website,17,24.06,5.0,409.02,388.57,0,4
+ORD01349,2024-03-01,Mumbai,West,Electronics,Standard,Website,6,201.42,5.0,1208.5,1148.07,0,5
+ORD01350,2024-03-02,Kolkata,East,Electronics,Standard,In-Store,15,81.77,15.0,1226.53,1042.55,0,4
+ORD01351,2024-03-03,Pune,West,Grocery,Premium,Website,3,242.12,10.0,726.35,653.71,0,1
+ORD01352,2024-03-04,Bangalore,South,Grocery,Premium,App,6,141.22,10.0,847.32,762.59,0,5
+ORD01353,2024-03-06,Ahmedabad,West,Books,Standard,App,3,98.25,0.0,294.75,294.75,0,5
+ORD01354,2024-03-07,Surat,West,Apparel,Standard,App,1,,15.0,734.46,624.29,0,3
+ORD01355,2024-03-08,Pune,West,Beauty,Premium,App,13,107.18,0.0,1393.4,1393.4,0,4
+ORD01356,2024-03-09,Surat,West,Beauty,Standard,App,14,49.27,0.0,689.82,689.82,0,3
+ORD01357,2024-03-11,Surat,West,Electronics,Budget,In-Store,13,67.16,0.0,873.07,873.07,0,5
+ORD01358,2024-03-12,Pune,West,Home & Kitchen,Premium,Website,4,326.64,0.0,1306.55,,0,3
+ORD01359,2024-03-13,Delhi,North,Electronics,Standard,Website,7,271.21,0.0,1898.46,1898.46,0,4
+ORD01360,2024-03-14,Chennai,South,Toys,Standard,App,10,49.54,15.0,495.36,421.05,0,5
+ORD01361,2024-03-15,Surat,West,Electronics,Budget,In-Store,7,154.87,20.0,1084.12,867.3,0,4
+ORD01362,2024-03-17,Pune,West,Grocery,Premium,Website,15,68.81,0.0,1032.13,1032.13,0,4
+ORD01363,2024-03-18,Pune,West,Electronics,Standard,App,15,,0.0,1643.61,1643.61,0,
+ORD01364,2024-03-19,Hyderabad,South,Toys,Budget,Website,4,89.9,0.0,359.59,359.59,0,4
+ORD01365,2024-03-20,Delhi,North,Grocery,Budget,Website,6,44.04,0.0,264.21,264.21,0,4
+ORD01366,2024-03-22,Jaipur,North,Beauty,Standard,App,5,161.44,0.0,807.2,807.2,1,3
+ORD01367,2024-03-23,Hyderabad,South,Electronics,Standard,Website,12,159.75,20.0,1917.04,1533.63,0,4
+ORD01368,2024-03-24,Hyderabad,South,Home & Kitchen,Standard,Website,1,895.39,0.0,895.39,895.39,0,3
+ORD01369,2024-03-25,Kolkata,East,Electronics,Budget,App,8,,5.0,1084.95,1030.71,0,5
+ORD01370,2024-03-26,Chennai,South,Books,Standard,In-Store,1,448.47,0.0,448.47,448.47,0,5
+ORD01371,2024-03-28,Pune,West,Electronics,Premium,In-Store,5,719.43,15.0,3597.14,3057.57,0,5
+ORD01372,2024-03-29,Chennai,South,Electronics,Budget,Website,6,,10.0,1140.86,1026.78,0,4
+ORD01373,2024-03-30,Bangalore,South,Electronics,Standard,Website,3,531.08,20.0,1593.24,1274.59,0,3
+ORD01374,2024-03-31,Kolkata,East,Grocery,Standard,App,15,39.02,15.0,585.25,497.46,0,4
+ORD01375,2024-04-02,Jaipur,North,Beauty,Premium,Website,5,315.96,0.0,1579.79,1579.79,0,5
+ORD01376,2024-04-03,Chennai,South,Electronics,Standard,Website,14,152.24,0.0,2131.35,2131.35,0,3
+ORD01377,2024-04-04,Mumbai,West,Sports,Standard,App,18,53.48,10.0,962.61,866.35,1,5
+ORD01378,2024-04-05,Surat,West,Grocery,Standard,Website,16,48.44,0.0,775.1,775.1,0,4
+ORD01379,2024-04-06,Bangalore,South,Grocery,Premium,In-Store,6,154.94,5.0,929.64,883.16,0,5
+ORD01380,2024-04-08,Delhi,North,Grocery,Standard,Website,14,43.12,0.0,603.7,603.7,0,5
+ORD01381,2024-04-09,Jaipur,North,Grocery,Budget,App,8,47.7,0.0,381.57,381.57,0,5
+ORD01382,2024-04-10,Bangalore,South,Beauty,Premium,Website,7,222.51,5.0,1557.56,1479.69,1,4
+ORD01383,2024-04-11,Surat,West,Electronics,Budget,App,8,132.1,5.0,1056.81,1003.97,0,1
+ORD01384,2024-04-12,Kolkata,East,Electronics,Standard,App,13,161.27,15.0,2096.52,1782.04,0,4
+ORD01385,2024-04-14,Surat,West,Books,Budget,App,6,49.88,0.0,299.31,299.31,0,4
+ORD01386,2024-04-15,Hyderabad,South,Toys,Budget,App,18,24.11,5.0,434.04,412.34,1,1
+ORD01387,2024-04-16,Surat,West,Apparel,Standard,Website,2,494.4,0.0,988.81,988.81,0,4
+ORD01388,2024-04-17,Hyderabad,South,Apparel,Standard,Website,8,114.06,0.0,912.45,912.45,0,4
+ORD01389,2024-04-19,Kolkata,East,Beauty,Budget,App,11,39.66,5.0,436.28,414.47,0,4
+ORD01390,2024-04-20,Ahmedabad,West,Grocery,Standard,In-Store,1,582.86,0.0,582.86,582.86,0,4
+ORD01391,2024-04-21,Hyderabad,South,Electronics,Standard,In-Store,6,330.55,0.0,1983.3,1983.3,0,
+ORD01392,2024-04-22,Delhi,North,Electronics,Standard,In-Store,16,123.13,0.0,1970.05,1970.05,1,5
+ORD01393,2024-04-23,Surat,West,Home & Kitchen,Budget,App,12,54.04,0.0,648.46,648.46,0,3
+ORD01394,2024-04-25,Surat,West,Home & Kitchen,Budget,Website,11,61.53,0.0,676.78,676.78,0,4
+ORD01395,2024-04-26,Delhi,North,Electronics,Budget,In-Store,10,106.19,0.0,1061.89,1061.89,0,4
+ORD01396,2024-04-27,Mumbai,West,Apparel,Standard,Website,3,299.48,0.0,898.44,898.44,0,5
+ORD01397,2024-04-28,Pune,West,Apparel,Budget,App,13,43.42,0.0,564.52,564.52,0,2
+ORD01398,2024-04-30,Ahmedabad,West,Home & Kitchen,Premium,App,3,607.18,10.0,1821.53,1639.38,1,4
+ORD01399,2024-05-01,Jaipur,North,Electronics,Standard,Website,15,103.52,0.0,1552.86,1552.86,0,4
+ORD01400,2024-05-02,Hyderabad,South,Electronics,Premium,In-Store,16,178.42,0.0,2854.73,2854.73,0,3
+ORD01401,2024-05-03,Delhi,North,Sports,Standard,Website,13,76.82,0.0,998.68,998.68,0,4
+ORD01402,2024-05-04,Kolkata,East,Electronics,Standard,Website,17,118.14,10.0,2008.46,1807.62,0,5
+ORD01403,2024-05-06,Hyderabad,South,Home & Kitchen,Standard,App,3,362.18,20.0,1086.54,869.23,0,5
+ORD01404,2024-05-07,Pune,West,Apparel,Standard,Website,11,75.34,15.0,6630.11,6340.05,0,1
+ORD01405,2024-05-08,Kolkata,East,Electronics,Standard,In-Store,19,74.44,10.0,1414.37,1272.94,0,3
+ORD01406,2024-05-09,Bangalore,South,Apparel,Standard,App,11,71.06,5.0,781.71,742.63,0,4
+ORD01407,2024-05-11,Surat,West,Home & Kitchen,Premium,Website,16,120.79,10.0,1932.6,1739.34,0,
+ORD01408,2024-05-12,Bangalore,South,Books,Standard,In-Store,3,136.3,5.0,408.9,388.45,0,3
+ORD01409,2024-05-13,Hyderabad,South,Sports,Premium,App,6,236.21,0.0,1417.24,1417.24,0,3
+ORD01410,2024-05-14,Pune,West,Apparel,Premium,Website,14,102.29,0.0,1432.05,1432.05,1,5
+ORD01411,2024-05-15,Ahmedabad,West,Home & Kitchen,Standard,App,18,39.03,0.0,702.57,702.57,0,5
+ORD01412,2024-05-17,Hyderabad,South,Electronics,Standard,Website,17,79.22,20.0,1346.81,1077.45,0,1
+ORD01413,2024-05-18,Delhi,North,Apparel,Standard,Website,4,149.69,5.0,598.77,568.83,0,
+ORD01414,2024-05-19,Chennai,South,Books,Standard,Website,15,24.6,10.0,369.0,332.1,0,4
+ORD01415,2024-05-20,Hyderabad,South,Electronics,Standard,Website,11,142.43,0.0,1566.78,1566.78,0,3
+ORD01416,2024-05-21,Surat,West,Electronics,Budget,App,3,274.95,5.0,824.84,783.6,0,4
+ORD01417,2024-05-23,Surat,West,Electronics,Standard,In-Store,3,404.58,0.0,1213.73,1213.73,0,4
+ORD01418,2024-05-24,Hyderabad,South,Electronics,Standard,Website,16,85.53,0.0,1368.55,1368.55,0,5
+ORD01419,2024-05-25,Kolkata,East,Electronics,Premium,App,5,453.89,15.0,2269.43,1929.02,0,5
+ORD01420,2024-05-26,Chennai,South,Beauty,Standard,Website,10,52.18,5.0,521.84,495.75,0,4
+ORD01421,2024-05-28,Delhi,North,Grocery,Standard,Website,19,23.61,0.0,448.56,448.56,1,4
+ORD01422,2024-05-29,Hyderabad,South,Books,Standard,App,4,70.36,15.0,281.45,239.23,0,3
+ORD01423,2024-05-30,Kolkata,East,Sports,Standard,In-Store,19,27.45,0.0,521.6,521.6,0,4
+ORD01424,2024-05-31,Surat,West,Apparel,Standard,In-Store,11,45.44,25.0,499.83,374.87,0,4
+ORD01425,2024-06-01,Surat,West,Apparel,Standard,App,2,236.41,0.0,472.82,472.82,0,3
+ORD01426,2024-06-03,Pune,West,Apparel,Budget,In-Store,10,38.95,0.0,389.54,389.54,0,3
+ORD01427,2024-06-04,Hyderabad,South,Beauty,Budget,App,11,31.98,0.0,351.73,351.73,0,4
+ORD01428,2024-06-05,Chennai,South,Apparel,Standard,App,16,39.7,0.0,635.2,635.2,1,5
+ORD01429,2024-06-06,Mumbai,West,Beauty,Budget,App,19,19.78,0.0,375.83,375.83,0,3
+ORD01430,2024-06-08,Chennai,South,Grocery,Premium,In-Store,11,81.12,10.0,892.28,803.05,0,4
+ORD01431,2024-06-09,Surat,West,Beauty,Premium,Website,14,67.81,20.0,949.36,759.49,0,4
+ORD01432,2024-06-10,Surat,West,Grocery,Premium,App,2,405.11,15.0,810.23,688.7,1,4
+ORD01433,2024-06-11,Bangalore,South,Apparel,Standard,App,5,97.86,0.0,489.3,489.3,0,2
+ORD01434,2024-06-12,Surat,West,Toys,Budget,Website,5,,5.0,350.5,332.98,0,5
+ORD01435,2024-06-14,Delhi,North,Home & Kitchen,Premium,App,19,,0.0,11201.64,10081.44,0,5
+ORD01436,2024-06-15,Jaipur,North,Electronics,Budget,In-Store,12,61.65,0.0,739.86,739.86,0,4
+ORD01437,2024-06-16,Hyderabad,South,Books,Premium,In-Store,18,30.53,10.0,549.48,494.54,0,4
+ORD01438,2024-06-17,Chennai,South,Grocery,Budget,Website,4,53.0,5.0,211.98,201.38,0,1
+ORD01439,2024-06-19,Jaipur,North,Books,Standard,In-Store,17,20.26,0.0,344.4,344.4,0,4
+ORD01440,2024-06-20,Kolkata,East,Sports,Premium,App,10,139.63,0.0,1396.26,,0,5
+ORD01441,2024-06-21,Mumbai,West,Grocery,Standard,In-Store,6,76.41,25.0,458.46,343.85,0,2
+ORD01442,2024-06-22,Delhi,North,Electronics,Standard,Website,14,84.66,0.0,1185.23,1185.23,0,4
+ORD01443,2024-06-23,Chennai,South,Apparel,Standard,Website,11,83.5,5.0,918.54,872.61,0,4
+ORD01444,2024-06-25,Jaipur,North,Grocery,Standard,App,11,48.04,5.0,528.42,502.0,0,3
+ORD01445,2024-06-26,Mumbai,West,Beauty,Budget,In-Store,18,30.71,0.0,552.71,552.71,0,5
+ORD01446,2024-06-27,Bangalore,South,Apparel,Standard,App,18,38.18,0.0,687.17,687.17,0,3
+ORD01447,2024-06-28,Delhi,North,Electronics,Standard,App,11,164.6,0.0,1810.61,1810.61,0,5
+ORD01448,2024-06-29,Delhi,North,Sports,Standard,App,12,78.07,15.0,936.87,796.34,1,4
+ORD01449,2024-07-01,Bangalore,South,Toys,Standard,Website,5,116.26,5.0,581.3,552.24,0,5
+ORD01450,2024-07-02,Hyderabad,South,Grocery,Standard,Website,9,70.48,10.0,634.31,570.88,0,4
+ORD01451,2024-07-03,Bangalore,South,Electronics,Standard,Website,9,182.9,25.0,1646.08,1234.56,0,4
+ORD01452,2024-07-04,Delhi,North,Apparel,Premium,In-Store,10,145.33,15.0,1453.26,1235.27,0,5
+ORD01453,2024-07-06,Delhi,North,Electronics,Premium,App,19,102.95,5.0,1956.03,1858.22,1,4
+ORD01454,2024-07-07,Jaipur,North,Books,Standard,Website,1,453.4,5.0,453.4,,0,
+ORD01455,2024-07-08,Surat,West,Electronics,Premium,App,7,403.24,10.0,2822.68,2540.41,0,4
+ORD01456,2024-07-09,Mumbai,West,Beauty,Standard,In-Store,4,192.32,10.0,769.29,692.36,0,5
+ORD01457,2024-07-10,Bangalore,South,Apparel,Standard,In-Store,1,805.35,5.0,805.35,765.08,0,4
+ORD01458,2024-07-12,Mumbai,West,Beauty,Premium,Website,15,96.81,10.0,1452.11,1306.9,0,5
+ORD01459,2024-07-13,Bangalore,South,Home & Kitchen,Standard,Website,8,141.27,0.0,1130.19,1130.19,0,4
+ORD01460,2024-07-14,Kolkata,East,Sports,Standard,App,12,84.64,5.0,1015.7,964.92,0,4
+ORD01461,2024-07-15,Delhi,North,Electronics,Budget,Website,18,70.45,0.0,1268.06,1268.06,1,5
+ORD01462,2024-07-17,Surat,West,Electronics,Standard,In-Store,15,149.59,0.0,2243.81,2243.81,0,5
+ORD01463,2024-07-18,Jaipur,North,Electronics,Budget,Website,17,68.29,0.0,1160.85,1160.85,0,5
+ORD01464,2024-07-19,Surat,West,Books,Standard,App,14,33.07,10.0,463.0,,0,5
+ORD01465,2024-07-20,Surat,West,Books,Premium,Website,14,68.85,5.0,963.92,915.73,0,4
+ORD01466,2024-07-21,Surat,West,Beauty,Standard,In-Store,18,55.26,0.0,994.6,,0,2
+ORD01467,2024-07-23,Mumbai,West,Beauty,Budget,App,18,32.45,5.0,584.18,,0,1
+ORD01468,2024-07-24,Bangalore,South,Home & Kitchen,Standard,App,16,65.95,5.0,1055.16,1002.4,0,
+ORD01469,2024-07-25,Ahmedabad,West,Electronics,Budget,Website,1,1300.44,0.0,1300.44,1300.44,0,5
+ORD01470,2024-07-26,Kolkata,East,Books,Budget,In-Store,11,27.64,10.0,304.01,273.61,0,3
+ORD01471,2024-07-28,Chennai,South,Grocery,Premium,App,15,88.49,15.0,1327.36,1128.26,0,3
+ORD01472,2024-07-29,Surat,West,Apparel,Premium,App,12,142.72,15.0,1712.62,1455.73,0,2
+ORD01473,2024-07-30,Hyderabad,South,Grocery,Standard,App,8,70.58,10.0,564.62,508.16,1,5
+ORD01474,2024-07-31,Mumbai,West,Electronics,Standard,App,6,372.5,5.0,2234.99,2123.24,1,4
+ORD01475,2024-08-01,Jaipur,North,Electronics,Budget,Website,3,316.53,0.0,949.58,949.58,1,4
+ORD01476,2024-08-03,Chennai,South,Home & Kitchen,Budget,Website,13,50.23,0.0,653.04,653.04,0,4
+ORD01477,2024-08-04,Ahmedabad,West,Electronics,Standard,Website,13,144.54,0.0,1879.01,1879.01,0,5
+ORD01478,2024-08-05,Hyderabad,South,Beauty,Premium,Website,2,740.4,25.0,1480.81,1110.61,0,4
+ORD01479,2024-08-06,Ahmedabad,West,Apparel,Budget,App,5,110.38,0.0,551.88,551.88,1,4
+ORD01480,2024-08-07,Chennai,South,Apparel,Standard,In-Store,17,64.89,0.0,1103.15,1103.15,0,3
+ORD01481,2024-08-09,Surat,West,Apparel,Budget,Website,6,105.89,20.0,635.33,508.26,0,4
+ORD01482,2024-08-10,Hyderabad,South,Apparel,Standard,In-Store,2,474.52,20.0,949.04,759.23,0,5
+ORD01483,2024-08-11,Ahmedabad,West,Home & Kitchen,Standard,Website,4,313.38,15.0,1253.51,1065.48,0,5
+ORD01484,2024-08-12,Jaipur,North,Apparel,Premium,App,11,139.97,0.0,1539.68,,0,3
+ORD01485,2024-08-14,Bangalore,South,Beauty,Standard,Website,8,95.5,0.0,764.01,,0,1
+ORD01486,2024-08-15,Delhi,North,Grocery,Standard,App,12,56.78,0.0,681.32,681.32,0,2
+ORD01487,2024-08-16,Bangalore,South,Home & Kitchen,Standard,Website,8,143.62,0.0,1148.92,1148.92,0,4
+ORD01488,2024-08-17,Chennai,South,Toys,Premium,App,11,107.33,0.0,1180.66,1180.66,0,5
+ORD01489,2024-08-18,Mumbai,West,Home & Kitchen,Standard,App,8,116.51,5.0,932.08,885.48,0,1
+ORD01490,2024-08-20,Delhi,North,Electronics,Budget,In-Store,8,162.02,20.0,1296.12,1036.9,0,4
+ORD01491,2024-08-21,Kolkata,East,Electronics,Premium,App,17,158.86,0.0,2700.62,2700.62,0,4
+ORD01492,2024-08-22,Jaipur,North,Apparel,Premium,In-Store,16,,10.0,1469.04,1322.14,0,2
+ORD01493,2024-08-23,Kolkata,East,Beauty,Premium,App,14,104.14,10.0,1458.0,1312.2,0,4
+ORD01494,2024-08-25,Hyderabad,South,Electronics,Standard,Website,11,193.69,0.0,2130.59,2130.59,1,3
+ORD01495,2024-08-26,Delhi,North,Grocery,Standard,Website,7,83.27,10.0,5829.18,4197.04,0,4
+ORD01496,2024-08-27,Kolkata,East,Beauty,Standard,Website,16,49.94,0.0,799.0,799.0,1,5
+ORD01497,2024-08-28,Kolkata,East,Apparel,Premium,App,13,105.07,0.0,1365.93,1365.93,1,4
+ORD01498,2024-08-29,Ahmedabad,West,Sports,Standard,App,15,61.84,10.0,927.54,834.79,0,2
+ORD01499,2024-08-31,Bangalore,South,Electronics,Standard,App,16,104.17,0.0,1666.7,1666.7,0,5
+ORD01500,2024-09-01,Ahmedabad,West,Electronics,Standard,App,9,144.89,25.0,1304.05,,0,4
+ORD01501,2024-09-02,Delhi,North,Home & Kitchen,Budget,Website,3,196.79,0.0,590.37,590.37,0,5
+ORD01502,2024-09-03,Delhi,North,Grocery,Premium,In-Store,19,53.66,5.0,1019.54,968.56,0,2
+ORD01503,2024-09-05,Chennai,South,Home & Kitchen,Standard,In-Store,5,192.07,5.0,960.37,912.36,0,1
+ORD01504,2024-09-06,Ahmedabad,West,Grocery,Standard,Website,10,49.29,0.0,4435.91,4435.92,0,1
+ORD01505,2024-09-07,Pune,West,Apparel,Standard,Website,17,37.35,0.0,634.91,634.91,0,3
+ORD01506,2024-09-08,Bangalore,South,Sports,Standard,Website,15,35.83,10.0,537.51,483.76,0,4
+ORD01507,2024-09-09,Delhi,North,Sports,Standard,App,8,98.13,15.0,785.06,667.3,0,5
+ORD01508,2024-09-11,Chennai,South,Home & Kitchen,Budget,In-Store,15,37.61,15.0,564.11,479.49,0,4
+ORD01509,2024-09-12,Ahmedabad,West,Apparel,Premium,Website,14,101.66,5.0,1423.2,1352.04,0,4
+ORD01510,2024-09-13,Bangalore,South,Beauty,Premium,Website,7,180.85,15.0,1265.98,1076.08,0,4
+ORD01511,2024-09-14,Ahmedabad,West,Apparel,Standard,App,12,56.36,10.0,676.37,608.74,0,2
+ORD01512,2024-09-15,Kolkata,East,Electronics,Standard,App,17,95.99,10.0,1631.8,1468.62,0,4
+ORD01513,2024-09-17,Chennai,South,Books,Standard,Website,17,22.46,5.0,381.88,362.79,0,4
+ORD01514,2024-09-18,Bangalore,South,Electronics,Premium,In-Store,10,236.81,10.0,2368.1,2131.29,0,5
+ORD01515,2024-09-19,Surat,West,Toys,Premium,Website,19,52.22,15.0,992.1,843.28,0,5
+ORD01516,2024-09-20,Hyderabad,South,Grocery,Budget,App,14,17.63,0.0,246.89,246.89,0,3
+ORD01517,2024-09-22,Hyderabad,South,Electronics,Premium,In-Store,11,245.49,15.0,2700.42,2295.36,1,4
+ORD01518,2024-09-23,Bangalore,South,Grocery,Standard,App,2,181.34,5.0,362.69,344.56,0,5
+ORD01519,2024-09-24,Ahmedabad,West,Books,Premium,App,18,27.64,0.0,497.5,497.5,0,5
+ORD01520,2024-09-25,Chennai,South,Home & Kitchen,Standard,App,7,128.99,0.0,902.91,902.91,0,4
+ORD01521,2024-09-26,Hyderabad,South,Sports,Premium,Website,12,124.38,0.0,1492.59,1492.59,0,5
+ORD01522,2024-09-28,Chennai,South,Home & Kitchen,Standard,In-Store,2,431.78,5.0,863.56,820.38,0,2
+ORD01523,2024-09-29,Hyderabad,South,Home & Kitchen,Premium,App,18,80.8,15.0,1454.44,1236.28,1,5
+ORD01524,2024-09-30,Kolkata,East,Sports,Budget,In-Store,6,49.85,0.0,299.11,299.11,0,2
+ORD01525,2024-10-01,Ahmedabad,West,Apparel,Premium,App,10,124.01,15.0,1240.07,1054.06,0,4
+ORD01526,2024-10-03,Kolkata,East,Grocery,Standard,In-Store,15,33.19,15.0,497.9,423.22,0,5
+ORD01527,2024-10-04,Hyderabad,South,Apparel,Budget,Website,5,79.17,0.0,395.87,395.87,0,3
+ORD01528,2024-10-05,Surat,West,Toys,Standard,In-Store,3,162.82,15.0,488.46,415.19,0,4
+ORD01529,2024-10-06,Surat,West,Toys,Standard,App,5,130.13,25.0,650.66,487.99,0,4
+ORD01530,2024-10-07,Kolkata,East,Electronics,Standard,In-Store,8,190.86,10.0,1526.9,1374.21,0,5
+ORD01531,2024-10-09,Surat,West,Home & Kitchen,Standard,Website,8,115.61,15.0,924.86,786.13,0,5
+ORD01532,2024-10-10,Hyderabad,South,Books,Standard,App,8,,25.0,417.15,312.86,0,5
+ORD01533,2024-10-11,Bangalore,South,Electronics,Budget,In-Store,12,70.33,10.0,844.0,759.6,0,4
+ORD01534,2024-10-12,Kolkata,East,Beauty,Standard,App,8,91.86,0.0,734.85,734.85,0,5
+ORD01535,2024-10-14,Mumbai,West,Books,Standard,In-Store,11,41.91,15.0,460.96,391.82,0,4
+ORD01536,2024-10-15,Ahmedabad,West,Electronics,Standard,App,14,146.18,10.0,2046.48,1841.83,0,4
+ORD01537,2024-10-16,Surat,West,Home & Kitchen,Standard,Website,8,120.19,5.0,961.53,913.45,0,5
+ORD01538,2024-10-17,Surat,West,Apparel,Premium,Website,10,145.86,0.0,1458.62,1458.62,0,4
+ORD01539,2024-10-18,Delhi,North,Books,Standard,App,7,62.29,15.0,436.0,370.6,0,2
+ORD01540,2024-10-20,Pune,West,Toys,Budget,App,17,23.36,0.0,397.17,397.17,0,2
+ORD01541,2024-10-21,Kolkata,East,Toys,Premium,App,4,339.31,20.0,1357.24,1085.79,0,
+ORD01542,2024-10-22,Jaipur,North,Grocery,Standard,Website,13,40.49,0.0,526.37,526.37,0,5
+ORD01543,2024-10-23,Surat,West,Books,Premium,App,4,196.02,0.0,784.08,784.08,0,4
+ORD01544,2024-10-24,Ahmedabad,West,Sports,Standard,Website,5,174.09,5.0,870.45,826.92,0,5
+ORD01545,2024-10-26,Mumbai,West,Apparel,Premium,App,4,371.7,0.0,1486.8,1486.8,0,4
+ORD01546,2024-10-27,Surat,West,Sports,Standard,App,18,58.47,10.0,1052.4,947.16,0,3
+ORD01547,2024-10-28,Mumbai,West,Electronics,Budget,Website,6,213.5,20.0,1281.01,1024.81,0,4
+ORD01548,2024-10-29,Hyderabad,South,Beauty,Standard,App,2,410.71,15.0,821.41,698.2,0,5
+ORD01549,2024-10-31,Hyderabad,South,Apparel,Standard,In-Store,11,94.86,0.0,1043.44,1043.44,0,4
+ORD01550,2024-11-01,Pune,West,Electronics,Budget,In-Store,14,97.0,0.0,1358.02,1358.02,0,
+ORD01551,2024-11-02,Bangalore,South,Electronics,Budget,Website,5,293.81,15.0,1469.06,1248.7,0,4
+ORD01552,2024-11-03,Jaipur,North,Home & Kitchen,Premium,Website,6,351.9,20.0,2111.39,1689.11,1,4
+ORD01553,2024-11-04,Delhi,North,Apparel,Standard,In-Store,10,94.59,5.0,945.86,898.57,0,4
+ORD01554,2024-11-06,Pune,West,Home & Kitchen,Premium,App,8,241.21,5.0,1929.71,1833.22,0,5
+ORD01555,2024-11-07,Chennai,South,Electronics,Budget,App,14,81.83,0.0,1145.64,1145.64,0,5
+ORD01556,2024-11-08,Delhi,North,Apparel,Budget,App,3,229.73,20.0,689.19,551.35,0,1
+ORD01557,2024-11-09,Kolkata,East,Grocery,Standard,Website,12,49.38,10.0,592.54,533.28,0,4
+ORD01558,2024-11-11,Ahmedabad,West,Sports,Budget,App,16,46.96,0.0,751.36,,0,5
+ORD01559,2024-11-12,Chennai,South,Apparel,Standard,Website,17,56.45,0.0,959.6,959.6,0,5
+ORD01560,2024-11-13,Chennai,South,Beauty,Standard,In-Store,1,898.6,20.0,898.6,718.88,0,3
+ORD01561,2024-11-14,Pune,West,Books,Premium,In-Store,10,,0.0,930.37,930.37,0,5
+ORD01562,2024-11-15,Bangalore,South,Beauty,Budget,Website,10,54.02,0.0,540.15,540.15,0,5
+ORD01563,2024-11-17,Pune,West,Apparel,Premium,App,2,1025.64,5.0,2051.28,1948.72,0,3
+ORD01564,2024-11-18,Kolkata,East,Electronics,Budget,In-Store,9,169.97,0.0,1529.77,1529.77,0,5
+ORD01565,2024-11-19,Surat,West,Books,Budget,Website,13,22.74,0.0,295.61,295.61,0,2
+ORD01566,2024-11-20,Surat,West,Electronics,Standard,App,16,130.84,15.0,2093.41,1779.4,0,2
+ORD01567,2024-11-22,Bangalore,South,Books,Premium,App,18,51.38,20.0,924.9,739.92,0,2
+ORD01568,2024-11-23,Kolkata,East,Grocery,Standard,In-Store,19,38.3,15.0,727.65,618.5,0,
+ORD01569,2024-11-24,Bangalore,South,Toys,Standard,Website,12,63.76,20.0,765.13,612.1,0,5
+ORD01570,2024-11-25,Mumbai,West,Sports,Standard,In-Store,8,157.44,5.0,1259.55,1196.57,0,2
+ORD01571,2024-11-26,Surat,West,Toys,Premium,In-Store,17,90.0,15.0,1530.07,1300.56,0,3
+ORD01572,2024-11-28,Chennai,South,Apparel,Budget,Website,15,36.1,0.0,541.56,541.56,0,2
+ORD01573,2024-11-29,Jaipur,North,Home & Kitchen,Standard,Website,10,123.53,10.0,1235.29,1111.76,0,
+ORD01574,2024-11-30,Ahmedabad,West,Grocery,Standard,App,15,50.96,25.0,764.34,573.26,1,2
+ORD01575,2024-12-01,Kolkata,East,Grocery,Standard,App,15,,0.0,629.47,629.47,0,4
+ORD01576,2024-12-02,Delhi,North,Beauty,Standard,App,7,124.93,0.0,874.53,874.53,0,3
+ORD01577,2024-12-04,Bangalore,South,Books,Standard,Website,13,35.45,5.0,460.83,437.79,0,5
+ORD01578,2024-12-05,Ahmedabad,West,Toys,Standard,Website,17,40.29,0.0,684.95,684.95,0,5
+ORD01579,2024-12-06,Delhi,North,Home & Kitchen,Budget,In-Store,9,61.52,0.0,553.67,553.67,0,1
+ORD01580,2024-12-07,Ahmedabad,West,Grocery,Standard,App,8,67.7,15.0,541.63,460.39,0,5
+ORD01581,2024-12-09,Jaipur,North,Grocery,Budget,Website,18,20.8,25.0,374.37,280.78,1,1
+ORD01582,2024-12-10,Delhi,North,Home & Kitchen,Budget,Website,13,,5.0,743.46,706.29,0,3
+ORD01583,2024-12-11,Pune,West,Apparel,Premium,Website,16,95.18,0.0,1522.82,1522.82,0,1
+ORD01584,2024-12-12,Hyderabad,South,Electronics,Budget,Website,9,115.44,0.0,1038.96,1038.96,1,4
+ORD01585,2024-12-13,Pune,West,Apparel,Premium,App,12,156.62,20.0,1879.46,1503.57,0,4
+ORD01586,2024-12-15,Surat,West,Apparel,Budget,Website,12,38.12,5.0,457.4,434.53,1,5
+ORD01587,2024-12-16,Hyderabad,South,Apparel,Standard,App,6,116.2,0.0,697.23,697.23,1,4
+ORD01588,2024-12-17,Pune,West,Apparel,Budget,App,19,24.17,5.0,459.17,436.21,0,5
+ORD01589,2024-12-18,Hyderabad,South,Electronics,Budget,Website,7,137.41,0.0,961.85,961.85,0,3
+ORD01590,2024-12-20,Hyderabad,South,Electronics,Budget,Website,3,272.45,5.0,817.35,776.48,0,5
+ORD01591,2024-12-21,Chennai,South,Toys,Budget,In-Store,16,22.45,15.0,359.18,305.3,0,3
+ORD01592,2024-12-22,Bangalore,South,Grocery,Standard,Website,18,32.99,5.0,593.8,564.11,0,3
+ORD01593,2024-12-23,Bangalore,South,Apparel,Premium,Website,16,74.9,10.0,1198.45,1078.6,0,3
+ORD01594,2024-12-24,Chennai,South,Home & Kitchen,Standard,Website,7,131.29,0.0,919.01,919.01,0,3
+ORD01595,2024-12-26,Ahmedabad,West,Electronics,Premium,Website,4,757.41,10.0,3029.66,2726.69,0,
+ORD01596,2024-12-27,Mumbai,West,Toys,Standard,App,8,70.6,10.0,564.78,508.3,1,5
+ORD01597,2024-12-28,Ahmedabad,West,Sports,Standard,App,13,64.22,0.0,834.84,834.84,0,2
+ORD01598,2024-12-29,Delhi,North,Electronics,Budget,App,13,73.48,5.0,955.18,907.42,0,5
+ORD01599,2024-12-31,Delhi,North,Grocery,Standard,Website,17,25.89,0.0,440.18,440.18,0,4

@@ -1,0 +1,64 @@
+BUSINESS GLOSSARY & DATA DICTIONARY
+AI Data Copilot — E-Commerce Dataset
+
+=== KEY METRIC DEFINITIONS ===
+
+GMV (Gross Merchandise Value): The total value of goods sold before deducting returns or discounts. GMV = unit_price × quantity. This is the top-line growth metric.
+
+Revenue: Actual realized income after applying discounts. Revenue = GMV × (1 - discount_pct/100). This is the bottom-line sales figure.
+
+Return Rate: Percentage of orders where return_flag = 1. Target return rate is below 10%. Anything above 15% is a red flag.
+
+Discount Rate: Average discount_pct across orders. Company policy caps discounts at 20% for Standard segment and 25% for Premium segment.
+
+=== BUSINESS TARGETS (2024) ===
+
+Annual GMV Target: 8,000,000
+Annual Revenue Target: 7,200,000
+Monthly GMV Target: 666,667
+Q1 GMV Target: 1,800,000
+Q2 GMV Target: 2,000,000
+Q3 GMV Target: 2,100,000
+Q4 GMV Target: 2,100,000
+
+Top City GMV Targets:
+- Delhi: 1,200,000
+- Mumbai: 1,100,000
+- Bangalore: 900,000
+- Chennai: 700,000
+- Hyderabad: 650,000
+
+=== CUSTOMER SEGMENTS ===
+
+Premium: High-value customers. Average order value above 1500. Churn risk if rating drops below 3.
+Standard: Core customer base. Average order value 800-1500.
+Budget: Price-sensitive customers. Primarily active during discount campaigns.
+
+=== CHANNEL DEFINITIONS ===
+
+App: Mobile application orders. Fastest growing channel. Target: 50% of total orders by end of 2024.
+Website: Desktop/web orders. Mature channel. Stable growth expected.
+In-Store: Physical retail orders. Declining channel. Under review for consolidation.
+
+=== CATEGORY BENCHMARKS ===
+
+Electronics: Highest GMV per order (avg 2500). Seasonal spike in Q4 (Diwali, Christmas).
+Apparel: Second highest volume. High return rate (avg 18%) — acceptable for category.
+Grocery: Lowest GMV per order but highest order frequency. Low returns expected (<5%).
+Beauty: Growing category. Target 15% YoY GMV growth.
+Home & Kitchen: Stable. Mostly Standard and Premium segments.
+Sports: Seasonal — peaks in Q1 (New Year resolutions) and Q3 (monsoon end).
+Books: Lowest GMV. Mostly Budget segment. Low returns.
+Toys: Q4 seasonal spike (35% of annual GMV in Q4).
+
+=== DATA QUALITY NOTES ===
+
+unit_price: May have ~3% missing values due to legacy system migration.
+rating: Customer ratings 1-5. Missing means customer did not submit a review.
+revenue: Occasionally missing for B2B bulk orders processed offline.
+
+=== ANOMALY THRESHOLDS ===
+
+GMV per order above 10,000 should be flagged for manual review (potential data entry error or wholesale order).
+discount_pct above 25% is unauthorized and should be investigated.
+return_flag = 1 with rating = 5 is suspicious — flag for fraud review.
